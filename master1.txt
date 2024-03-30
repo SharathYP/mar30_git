@@ -1,1 +1,5 @@
+
 im master1 file again modified
+=======
+im file1 frm second
+>>>>>>> second
